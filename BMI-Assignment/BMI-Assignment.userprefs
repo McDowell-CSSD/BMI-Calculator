@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5E384C91-E8DE-4003-ABCC-BCD0267D6DBA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BMI-Assignment/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMI-Assignment PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CE9BF11-2E0B-44DC-A4A5-67EF0EDFBA14">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BMI-Assignment>
+</Properties>
